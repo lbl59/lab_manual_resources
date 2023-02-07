@@ -1,0 +1,12 @@
+DVs (columns left to right):
+1. Covenant threshold, net revenue, fund balance
+2. Debt covenant required ratio
+3. Unencumbered budget fraction
+4. Managed uniform rate increase rate
+5. Managed uniform rate decrease rate
+6. Prev unaccounted FY enterprise fund fraction
+7. Debt service cap fraction of GR
+8. RnR fund fraction of GR
+9. FIP fund fraction of GR
+10. Energy fund fraction of GR
+11. Reserve fund fraction of GR
